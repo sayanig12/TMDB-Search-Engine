@@ -19,3 +19,7 @@ var config = {
 - Type a movie name of your choice to see the results and go to "Movie Details" for further info and for link to IMDB.
 
 
+NB: Code modified from : https://www.youtube.com/watch?v=YsPqjYGauns&list=PLwoKi92MT19k8X7iegFtN8M_mkiBoJtZC&index=38&t=229s
+- Modifications: 
+	- Code modifications as required to access TMDB's database and pull the relevant info from the HTTP response (which is structured 	    differently from the OMDB database as shown in the video).
+	- Some css changes to showcase the movie results better. 
